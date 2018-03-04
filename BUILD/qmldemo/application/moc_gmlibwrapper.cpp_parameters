@@ -1,0 +1,10 @@
+-IE:/src/FEM/BUILD/gmlib/include
+-IE:/src/FEM/glew-2.1.0/include
+-DGM_GL_DEBUG
+-DGM_STREAM
+-DGLEW_STATIC
+-DWIN32
+--compiler-flavor=msvc
+-o
+E:/src/FEM/BUILD/qmldemo/application/moc_gmlibwrapper.cpp
+E:/src/FEM/qmldemo/application/gmlibwrapper.h

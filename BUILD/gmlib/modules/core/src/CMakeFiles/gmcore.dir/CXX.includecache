@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/src/FEM/gmlib/modules/core/src/gmglobal.h
+
+E:/src/FEM/gmlib/modules/core/src/utils/gmcolor.cpp
+gmcolor.h
+E:/src/FEM/gmlib/modules/core/src/utils/gmcolor.h
+
+E:/src/FEM/gmlib/modules/core/src/utils/gmcolor.h
+gmstream.h
+E:/src/FEM/gmlib/modules/core/src/utils/gmstream.h
+gmutils.h
+E:/src/FEM/gmlib/modules/core/src/utils/gmutils.h
+cmath
+-
+algorithm
+-
+
+E:/src/FEM/gmlib/modules/core/src/utils/gmstream.cpp
+gmstream.h
+E:/src/FEM/gmlib/modules/core/src/utils/gmstream.h
+memory
+-
+
+E:/src/FEM/gmlib/modules/core/src/utils/gmstream.h
+iostream
+-
+
+E:/src/FEM/gmlib/modules/core/src/utils/gmutils.h
+../gmglobal.h
+E:/src/FEM/gmlib/modules/core/src/gmglobal.h
+functional
+-
+cassert
+-
+limits
+-
+cmath
+-
+
